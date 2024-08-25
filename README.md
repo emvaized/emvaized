@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+[![Profile view counter](https://komarev.com/ghpvc/?username=emvaized)](https://github.com/emvaized)
+[![](https://shields.io/badge/ko--fi-Support_me!-ff5f5f?logo=Ko-Fi&style=for-the-badgeKo-fi)](https://ko-fi.com/emvaized)
+[![](https://img.shields.io/stackexchange/stackoverflow/r/11381400?color=F47F24&label=Stack%20Overflow&logo=Stack%20Overflow)](https://stackoverflow.com/users/11381400/emvaized)
 <!--
 **emvaized/emvaized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emvaized&theme=transparent&hide_title=true&include_all_commits=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact" />  
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=emvaized&theme=transparent&hide_title=true&include_all_commits=true" /> <span align="center" src="" height=250 width=10 ></span> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact" />  
