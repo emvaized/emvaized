@@ -28,4 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+<img align="bottom" src="https://github-readme-streak-stats.herokuapp.com?user=emvaized&theme=transparent&mode=daily&card_width=467&card_height=30" align="bottom" alt="GitHub Streak" />
+-->
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=emvaized&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true&include_all_commits=true" /> <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=transparent" /> 
