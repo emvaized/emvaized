@@ -1,10 +1,10 @@
 <!--
-## Welcome to my Github page <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png?raw=true" height=32 align="top" />
+## Welcome to my Github page <img align="top" height=30 src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png?raw=true"/>
 -->
 
 ## Welcome to my Github page 👋
 
-It is my passion to create software which people love and enjoy using every day!
+It is my passion to create software which people love and enjoy using every day! 
 
 [![Profile view counter](https://komarev.com/ghpvc/?username=emvaized)](https://github.com/emvaized)
 [![](https://shields.io/badge/Ko--fi-Support_me-ff5f5f?logo=Ko-Fi&style=for-the-badgeKo-fi)](https://ko-fi.com/emvaized)
