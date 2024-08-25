@@ -1,7 +1,7 @@
 ## Hi there 👋
 It is my passion to create software which people love and enjoy using every day!
 
-[![](https://shields.io/badge/ko--fi-Support_me!-ff5f5f?logo=Ko-Fi&style=for-the-badgeKo-fi)](https://ko-fi.com/emvaized)
+[![](https://shields.io/badge/ko--fi-Support_me-ff5f5f?logo=Ko-Fi&style=for-the-badgeKo-fi)](https://ko-fi.com/emvaized)
 [![](https://img.shields.io/stackexchange/stackoverflow/r/11381400?color=F47F24&label=Stack%20Overflow&logo=Stack%20Overflow)](https://stackoverflow.com/users/11381400/emvaized)
 [![Profile view counter](https://komarev.com/ghpvc/?username=emvaized)](https://github.com/emvaized)
 <!--
