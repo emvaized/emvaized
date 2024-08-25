@@ -1,4 +1,4 @@
-## Welcome to my Github page 👋
+## Welcome to my Github page <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png?raw=true" height=32 align="top" />
 
 It is my passion to create software which people love and enjoy using every day!
 
