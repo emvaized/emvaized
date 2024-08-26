@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 
   
-<img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emvaized&theme=default" /> <img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emvaized&theme=default" />  <img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emvaized&theme=default" /> 
+<img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emvaized&theme=transparent" /> <img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emvaized&theme=transparent" />  <img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emvaized&theme=transparent" /> 
