@@ -4,7 +4,7 @@
 
 ## Welcome to my Github page 👋
 
-It is my passion to create software which people love and enjoy using every day! 
+
 
 [![Profile view counter](https://komarev.com/ghpvc/?username=emvaized)](https://github.com/emvaized)
 [![](https://img.shields.io/stackexchange/stackoverflow/r/11381400?color=F47F24&label=Stack%20Overflow&logo=Stack%20Overflow)](https://stackoverflow.com/users/11381400/emvaized)
@@ -13,6 +13,7 @@ It is my passion to create software which people love and enjoy using every day!
 [![](https://img.shields.io/badge/Write_me-D14836?logo=gmail&label=Gmail)](mailto:maximtsyba@gmail.com)
 -->
 
+It is my passion to create software which people love and enjoy using every day 🙏
 <!--
 **emvaized/emvaized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,4 +32,10 @@ Here are some ideas to get you started:
 <!--
 <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com?user=emvaized&theme=transparent&mode=daily&card_width=467&card_height=30" align="bottom" alt="GitHub Streak" />
 -->
+<!-- another variant for cards
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=emvaized&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true&include_all_commits=true" /> <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=transparent" /> 
+-->
+
+
+  
+<img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emvaized&theme=default" /> <img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emvaized&theme=default" />  <img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emvaized&theme=default" /> 
