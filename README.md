@@ -36,9 +36,19 @@ Here are some ideas to get you started:
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=emvaized&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true&include_all_commits=true" /> <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=transparent" /> 
 -->
 
+<picture align="bottom">
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emvaized&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emvaized&theme=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture> 
 
-  
-<img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emvaized&theme=github" /> <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=emvaized&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true&include_all_commits=true&hide_rank=true" /> <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=transparent" /> 
+<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=emvaized&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true&include_all_commits=true&hide_rank=true" /> <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=transparent" /> 
 
 <!--
 <img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emvaized&theme=transparent" />  <img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emvaized&theme=transparent" /> 
