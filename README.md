@@ -48,8 +48,10 @@ Here are some ideas to get you started:
   <source srcset="https://github-readme-stats.vercel.app/api?username=emvaized&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true&include_all_commits=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-stats.vercel.app/api?username=emvaized&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true&include_all_commits=true" />
-</picture> <picture align="bottom">
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=github_dark_dimmed&bg_color=00000000" />
+</picture> 
+<picture align="bottom">
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=github_dark_dimmed&bg_color=00000000"
+    media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=transparent" />
