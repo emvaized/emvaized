@@ -37,19 +37,27 @@ Here are some ideas to get you started:
 -->
 
 <picture align="bottom">
-  <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emvaized&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emvaized&theme=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture> 
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emvaized&theme=github_dark"
+    media="(prefers-color-scheme: dark)" />
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emvaized&theme=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emvaized&theme=github" />
+</picture> <picture align="bottom">
+  <source srcset="https://github-readme-stats.vercel.app/api?username=emvaized&show_icons=true&theme=github_dark_dimmed&bg_color=00000000&rank_icon=percentile&hide_title=true&include_all_commits=true"
+    media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=emvaized&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true&include_all_commits=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emvaized&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true&include_all_commits=true" />
+</picture> <picture align="bottom">
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=github_dark_dimmed&bg_color=00000000" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=transparent"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=transparent" />
+</picture>
 
-<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=emvaized&show_icons=true&theme=transparent&rank_icon=percentile&hide_title=true&include_all_commits=true&hide_rank=false" /> <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=transparent" /> 
-
+<!--
+<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=emvaized&show_icons=true&theme=github_dark_dimmed&bg_color=00000000&rank_icon=percentile&hide_title=true&include_all_commits=true" /> <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emvaized&layout=compact&theme=github_dark_dimmed&bg_color=00000000" /> 
+-->
 <!--
 <img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emvaized&theme=transparent" />  <img align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emvaized&theme=transparent" /> 
 -->
