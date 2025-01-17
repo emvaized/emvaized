@@ -8,8 +8,8 @@ It is my passion to create software which people love and enjoy using every day 
 
 [![Profile view counter](https://komarev.com/ghpvc/?username=emvaized)](https://github.com/emvaized)
 [![](https://shields.io/badge/Ko--fi-Support_me-ff5f5f?logo=Ko-Fi&style=for-the-badgeKo-fi)](https://ko-fi.com/emvaized)
-[![](https://shields.io/badge/Patreon-Become_a_patron-f76859?logo=Patreon)](https://patreon.com/emvaized)
 [![](https://img.shields.io/stackexchange/stackoverflow/r/11381400?color=F47F24&label=Stack%20Overflow&logo=Stack%20Overflow)](https://stackoverflow.com/users/11381400/emvaized)
+<!--[![Patreon](https://shields.io/badge/Patreon-Become_a_patron-f76859?logo=Patreon)](https://patreon.com/emvaized)-->
 
 <!--
 **emvaized/emvaized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
